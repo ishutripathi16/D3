@@ -1,0 +1,10 @@
+C:\Users\Training\source\repos\Assignment\Assignment\bin\Debug\netcoreapp1.1\Assignment.deps.json
+C:\Users\Training\source\repos\Assignment\Assignment\bin\Debug\netcoreapp1.1\Assignment.runtimeconfig.json
+C:\Users\Training\source\repos\Assignment\Assignment\bin\Debug\netcoreapp1.1\Assignment.runtimeconfig.dev.json
+C:\Users\Training\source\repos\Assignment\Assignment\bin\Debug\netcoreapp1.1\Assignment.dll
+C:\Users\Training\source\repos\Assignment\Assignment\bin\Debug\netcoreapp1.1\Assignment.pdb
+C:\Users\Training\source\repos\Assignment\Assignment\obj\Debug\netcoreapp1.1\Assignment.csproj.CoreCompileInputs.cache
+C:\Users\Training\source\repos\Assignment\Assignment\obj\Debug\netcoreapp1.1\Assignment.AssemblyInfo.cs
+C:\Users\Training\source\repos\Assignment\Assignment\obj\Debug\netcoreapp1.1\Assignment.dll
+C:\Users\Training\source\repos\Assignment\Assignment\obj\Debug\netcoreapp1.1\Assignment.pdb
+C:\Users\Training\source\repos\Assignment\Assignment\obj\Debug\netcoreapp1.1\Assignment.csprojResolveAssemblyReference.cache
